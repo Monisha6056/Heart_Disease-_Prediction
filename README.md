@@ -1,1 +1,2 @@
 # Heart_Disease-_Prediction
+Developed a machine learning model to predict heart disease using patient data. Preprocessed data, applied feature scaling, and implemented Logistic Regression for classification. Evaluated model performance using accuracy score, confusion matrix, and classification report, achieving insightful predictions. Visualized results using Seaborn and Matplotlib to enhance interpretability.
